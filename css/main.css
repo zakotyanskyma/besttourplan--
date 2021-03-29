@@ -1,0 +1,9 @@
+.pre-header {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background-color: #f5fafe;
+}
+.pre-header__link-b {
+  font-family: "Mulish", sans-serif;
+  font-weight: 600;
+}
